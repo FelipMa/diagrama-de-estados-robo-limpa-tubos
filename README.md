@@ -1,4 +1,7 @@
+## Respostas nos arquivos do projeto
+# Enunciado
 Deseja-se construir o controlador de um robô capaz de remover detritos não metálicos de uma tubulação metálica. A figura ilustra o problema:
+
 ![image](https://github.com/FelipMa/diagrama-de-estados-robo-limpa-tubos/assets/105306441/440e07f3-3909-49f7-8e79-827ed867579d)
 
 A tubulação a ser percorrida corresponde aos componentes de uma matriz de células, indicados pela cor cinza. O robô, mostrado como uma seta, é colocado em uma célula da cor preta, a qual representa um ponto de acesso do sistema de tubulação, com sua frente voltada para qualquer um dos 4 sentidos possíveis (Norte, Sul, Leste ou Oeste). O robô possui 4 sensores binários:
